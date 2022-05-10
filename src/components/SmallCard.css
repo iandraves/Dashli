@@ -1,0 +1,61 @@
+@import "../App.css";
+
+.small-card {
+    cursor: pointer;
+    border-radius: 0.7vh;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    background: var(--card);
+    padding: 1.5vh;
+}
+.small-card:hover {
+    background: var(--card-active);
+}
+.small-card:active:hover {
+    cursor: grab;
+}
+
+.small-card-top {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 2%;
+}
+
+.stat-type {
+    margin-left: 5%;
+    color: var(--text-secondary);
+    font-size: 1.8vh;
+    font-weight: bold;
+    position: relative;
+}
+
+.small-card-icon {
+    margin-right: 5%;
+    width: 8%;
+    height: 8%;
+}
+
+.small-card-bottom {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.small-card-count {
+    margin-left: 1.5vh;
+    font-size: 4vh;
+    font-weight: bold;
+    color: var(--text-primary);
+    margin-top: 0%;
+    margin-bottom: 1vh;
+}
+
+.small-card-stat {
+    margin-right: 2vh;
+}

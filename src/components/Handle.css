@@ -1,0 +1,26 @@
+@import "../App.css";
+
+.handle-container {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    bottom: -1vh;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.handle-icon {
+    margin-right: 3%;
+    width: 7%;
+    height: 7%;
+}
+
+.handle-text {
+    color: var(--text-secondary);
+    font-size: 1.8vh;
+    font-weight: bold;
+    position: relative;
+}

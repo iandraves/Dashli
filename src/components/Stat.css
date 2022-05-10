@@ -1,0 +1,29 @@
+@import "../App.css";
+
+.stat {
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.stat-text {
+    font-size: 1.6vh;
+    font-weight: bold;
+}
+
+.direction-icon {
+    height: 0.5vh;
+    width: 1vh;
+    margin-right: 0.5vh;
+}
+
+.green {
+    color: hsl(163, 72%, 41%);
+}
+
+.red {
+    color: hsl(356, 69%, 56%);
+}

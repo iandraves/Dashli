@@ -1,0 +1,21 @@
+@import "../App.css";
+
+.text-container {
+    width: 100%;
+}
+
+.title {
+    font-family: Inter;
+    font-size: 3vh;
+    font-weight: bold;
+    color: var(--text-primary);
+    margin-bottom: 0%;
+}
+
+.followers-text {
+    font-family: Inter;
+    font-size: 2vh;
+    font-weight: bold;
+    color: var(--text-secondary);
+    margin-top: 0.5%;
+}

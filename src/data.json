@@ -1,0 +1,106 @@
+{
+    "firstGroup": {
+        "0": {
+            "id": 1,
+            "handle": "@nathanf",
+            "platform": "facebook",
+            "count": 1987,
+            "followerType": "followers",
+            "stat": "12 Today",
+            "up": true
+        },
+        "1": {
+            "id": 2,
+            "handle": "@nathanf",
+            "platform": "twitter",
+            "count": 1044,
+            "followerType": "followers",
+            "stat": "99 Today",
+            "up": true
+        },
+        "2": {
+            "id": 3,
+            "handle": "@realnathanf",
+            "platform": "instagram",
+            "count": "11k",
+            "followerType": "followers",
+            "stat": "1099 Today",
+            "up": true
+        },
+        "3": {
+            "id": 4,
+            "handle": "Nathan F.",
+            "platform": "youtube",
+            "count": 8239,
+            "followerType": "subscribers",
+            "stat": "-144 Today",
+            "up": false
+        }
+    },
+    "secondGroup": {
+        "0": {
+            "id": 1,
+            "statType": "Page Views",
+            "platform": "facebook",
+            "count": 87,
+            "stat": "3%",
+            "up": true
+        },
+        "1": {
+            "id": 2,
+            "statType": "Likes",
+            "platform": "facebook",
+            "count": 52,
+            "stat": "2%",
+            "up": false
+        },
+        "2": {
+            "id": 3,
+            "statType": "Likes",
+            "platform": "instagram",
+            "count": 5462,
+            "stat": "2257%",
+            "up": true
+        },
+        "3": {
+            "id": 4,
+            "statType": "Profile Views",
+            "platform": "instagram",
+            "count": "52k",
+            "stat": "1375%",
+            "up": true
+        },
+        "4": {
+            "id": 5,
+            "statType": "Retweets",
+            "platform": "twitter",
+            "count": 117,
+            "stat": "303%",
+            "up": true
+        },
+        "5": {
+            "id": 6,
+            "statType": "Likes",
+            "platform": "twitter",
+            "count": 507,
+            "stat": "553%",
+            "up": true
+        },
+        "6": {
+            "id": 7,
+            "statType": "Likes",
+            "platform": "youtube",
+            "count": 5462,
+            "stat": "19%",
+            "up": false
+        },
+        "7": {
+            "id": 8,
+            "statType": "Total Views",
+            "platform": "youtube",
+            "count": 1407,
+            "stat": "12%",
+            "up": false
+        }
+    }
+}

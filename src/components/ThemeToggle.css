@@ -1,0 +1,91 @@
+@import "../App.css";
+
+.theme-container {
+    display: inline-flex;
+    width: 100%;
+    padding: 1vh;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: right;
+}
+@media only screen and (max-width: 600px) {
+    .theme-container {
+        display: inline-flex;
+        width: 100%;
+        padding: 1vh;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1vh;
+    }
+}
+
+.theme-text {
+    font-family: Inter;
+    font-size: 1.8vh;
+    font-weight: bold;
+    color: var(--text-secondary);
+    margin-right: 2%;
+}
+
+/* Toggle switch */
+/* ---> Adapted from: https://codepen.io/alvarotrigo/pen/YzEdrKj?editors=1100 */
+.toggle {
+    cursor: pointer;
+    display: inline-block;
+}
+
+.toggle-switch {
+    display: inline-block;
+    background: linear-gradient(
+        to right,
+        hsl(210, 78%, 56%),
+        hsl(146, 68%, 55%)
+    );
+    border-radius: 16px;
+    width: 58px;
+    height: 28px;
+    position: relative;
+    vertical-align: middle;
+    transition: background 0.25s;
+}
+.toggle-switch:before,
+.toggle-switch:after {
+    content: "";
+}
+.toggle-switch:before {
+    display: block;
+    background: var(--card);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 4px;
+    left: 4px;
+    transition: left 0.25s;
+}
+.toggle-switch:hover::before {
+    background: var(--card-active);
+}
+.toggle-checkbox:checked + .toggle-switch {
+    background: hsl(230, 22%, 74%);
+}
+.toggle:hover .toggle-switch {
+    background: linear-gradient(
+        to right,
+        hsl(210, 78%, 56%),
+        hsl(146, 68%, 55%)
+    );
+}
+.toggle-checkbox:checked + .toggle-switch:before {
+    left: 34px;
+}
+
+.toggle-checkbox {
+    position: absolute;
+    visibility: hidden;
+}
+
+.toggle-label {
+    position: relative;
+}
