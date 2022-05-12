@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/iandraves/SocialMediaDashboard">
+  <a href="https://github.com/iandraves/Dashli">
     <img src="public/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -11,11 +11,11 @@
     A beautiful social media dashboard to display stats you care about.
     <br />
     <br />
-    <a href="https://github.com/iandraves/SocialMediaDashboard">LIVE DEMO</a>
+    <a href="https://github.com/iandraves/Dashli">LIVE DEMO</a>
     ·
-    <a href="https://github.com/iandraves/SocialMediaDashboard/issues">Report Bug</a>
+    <a href="https://github.com/iandraves/Dashli/issues">Report Bug</a>
     ·
-    <a href="https://github.com/iandraves/SocialMediaDashboard/issues">Request Feature</a>
+    <a href="https://github.com/iandraves/Dashli/issues">Request Feature</a>
   </p>
 </div>
 
@@ -33,21 +33,37 @@ I created Dashli as a fun test of my React and CSS knowledge. To ensure I got th
 
 ## Running Locally
 
-1. Clone the repo
+1.  Clone the repo
+
+    With HTTPS
+
     ```sh
-    git clone https://github.com/your_username_/Project-Name.git
+    git clone https://github.com/iandraves/Dashli.git
     ```
-2. Install NPM packages
+
+    With SSH
+
+    ```sh
+    git clone git@github.com:iandraves/Dashli.git
+    ```
+
+    With SSH
+
+    ```sh
+    gh repo clone iandraves/Dashli
+    ```
+
+2.  Install NPM packages
     ```sh
     npm install
     ```
-3. Ensure Sortable.js is installed ("npm install" isn't sufficient on some machines)
+3.  Ensure Sortable.js is installed ("npm install" isn't sufficient on some machines)
 
     ```sh
     npm install --save react-sortablejs sortablejs
     ```
 
-4. Run the project
+4.  Run the project
 
     ```sh
     npm start

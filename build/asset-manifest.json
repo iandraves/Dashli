@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SocialMediaDashboard/static/css/main.6187acad.css",
-    "main.js": "/SocialMediaDashboard/static/js/main.01e7a3eb.js",
-    "static/js/787.87760723.chunk.js": "/SocialMediaDashboard/static/js/787.87760723.chunk.js",
-    "static/media/chart.webp": "/SocialMediaDashboard/static/media/chart.01cc1e5155b809be8451.webp",
-    "static/media/icon-instagram.svg": "/SocialMediaDashboard/static/media/icon-instagram.568b5795d56c7d9247f4.svg",
-    "index.html": "/SocialMediaDashboard/index.html",
-    "static/media/icon-twitter.svg": "/SocialMediaDashboard/static/media/icon-twitter.a0c5f64d440de29ad911.svg",
-    "static/media/icon-youtube.svg": "/SocialMediaDashboard/static/media/icon-youtube.cad14335e1f2ede979c6.svg",
-    "static/media/icon-facebook.svg": "/SocialMediaDashboard/static/media/icon-facebook.8deee3e3b5c57f63a1f4.svg",
-    "static/media/icon-down.svg": "/SocialMediaDashboard/static/media/icon-down.0c77426d8f1ab70c4ae6.svg",
-    "static/media/icon-up.svg": "/SocialMediaDashboard/static/media/icon-up.359200b20d83a37cfb26.svg",
-    "main.6187acad.css.map": "/SocialMediaDashboard/static/css/main.6187acad.css.map",
-    "main.01e7a3eb.js.map": "/SocialMediaDashboard/static/js/main.01e7a3eb.js.map",
-    "787.87760723.chunk.js.map": "/SocialMediaDashboard/static/js/787.87760723.chunk.js.map"
+    "main.css": "/Dashli/static/css/main.6187acad.css",
+    "main.js": "/Dashli/static/js/main.9e78be25.js",
+    "static/js/787.87760723.chunk.js": "/Dashli/static/js/787.87760723.chunk.js",
+    "static/media/chart.webp": "/Dashli/static/media/chart.01cc1e5155b809be8451.webp",
+    "static/media/icon-instagram.svg": "/Dashli/static/media/icon-instagram.568b5795d56c7d9247f4.svg",
+    "index.html": "/Dashli/index.html",
+    "static/media/icon-twitter.svg": "/Dashli/static/media/icon-twitter.a0c5f64d440de29ad911.svg",
+    "static/media/icon-youtube.svg": "/Dashli/static/media/icon-youtube.cad14335e1f2ede979c6.svg",
+    "static/media/icon-facebook.svg": "/Dashli/static/media/icon-facebook.8deee3e3b5c57f63a1f4.svg",
+    "static/media/icon-down.svg": "/Dashli/static/media/icon-down.0c77426d8f1ab70c4ae6.svg",
+    "static/media/icon-up.svg": "/Dashli/static/media/icon-up.359200b20d83a37cfb26.svg",
+    "main.6187acad.css.map": "/Dashli/static/css/main.6187acad.css.map",
+    "main.9e78be25.js.map": "/Dashli/static/js/main.9e78be25.js.map",
+    "787.87760723.chunk.js.map": "/Dashli/static/js/787.87760723.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6187acad.css",
-    "static/js/main.01e7a3eb.js"
+    "static/js/main.9e78be25.js"
   ]
 }
