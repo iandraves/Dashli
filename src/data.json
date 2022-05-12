@@ -2,7 +2,7 @@
     "firstGroup": {
         "0": {
             "id": 1,
-            "handle": "@nathanf",
+            "handle": "@johndoe",
             "platform": "facebook",
             "count": 1987,
             "followerType": "followers",
@@ -11,7 +11,7 @@
         },
         "1": {
             "id": 2,
-            "handle": "@nathanf",
+            "handle": "@johndoe",
             "platform": "twitter",
             "count": 1044,
             "followerType": "followers",
@@ -20,7 +20,7 @@
         },
         "2": {
             "id": 3,
-            "handle": "@realnathanf",
+            "handle": "@realjohndoe",
             "platform": "instagram",
             "count": "11k",
             "followerType": "followers",
@@ -29,7 +29,7 @@
         },
         "3": {
             "id": 4,
-            "handle": "Nathan F.",
+            "handle": "John D.",
             "platform": "youtube",
             "count": 8239,
             "followerType": "subscribers",
